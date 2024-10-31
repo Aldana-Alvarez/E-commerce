@@ -32,12 +32,12 @@ a {
 }
 
 .top-nav li a {
-    color: #ffffff;
+    color: #5dd499;
     text-decoration: none;
 }
 
 .top-nav li a:hover, .top-nav li a:focus {
-    color: #fff;
+    color: #54ad92;
 }
 
 .site-logo {
@@ -51,7 +51,7 @@ a {
 }
 
 .site-logo a {
-    color: #0a4a92;
+    color: #0a8992;
     text-decoration: none;
 }
 
@@ -103,7 +103,7 @@ a {
 .product-name {
     font-size: 1.2rem;
     font-weight: 600;
-    color: #014eb3;
+    color: #d385dd;
     text-decoration: none;
 }
 
@@ -127,7 +127,7 @@ a.product-name:hover, a.product-name:focus {
 
 .product-price-old {
     text-decoration: line-through;
-    color: #a3a3a3;
+    color: #34b8ec;
     font-weight: 600;
     font-size: 18px;
 }
@@ -148,7 +148,7 @@ a.product-name:hover, a.product-name:focus {
     list-style: none;
 }
 .col-10 { 
-    color: #ffffff;
+    color: #43aca3;
     display: flex;
     text-align: center;
 }
@@ -167,7 +167,7 @@ a.product-name:hover, a.product-name:focus {
 
 .col-13 {
     max-width: 600px;
-    color: #ffffff;
+    color: #1a7480;
     font-size: 16px;
     text-align: center;
     margin-left: 80%;
@@ -185,7 +185,7 @@ a.product-name:hover, a.product-name:focus {
 }
 
 .footer-logo a:hover, .footer-logo a:focus, .footer-nav a:hover, .footer-nav a:focus, .social-icon:hover, .social-icon:focus {
-    color: #fff;
+    color: #6cc538;
 }
 
 .product-item {
